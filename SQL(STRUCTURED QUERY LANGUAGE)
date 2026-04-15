@@ -1,0 +1,33 @@
+SQL(STRUCTURED QUERY LANGUAGE)
+-------------------------------
+1.DDL(DATA DEFINATION LANGUAGE)
+-------------------------------
+1.CREATE
+2.ALTER
+3.TRUNCATE
+4.DROP
+
+2.DML(DATA MANIPULATION LANGUAGE)
+-----------------------------------
+1.INSERT
+2.UPDATE
+3.DELETE
+
+3.TCL(TRANSACTION CONTROL LANGUAGE)
+-----------------------------------
+1.COMMIT
+2.ROLLBACK
+3.SAVEPOINT
+
+4.DCL(DATA CONTROL LANGUAGE)
+----------------------------
+1.GRANT
+2.REVOKE
+
+5.DQL(DATA QUERY LANGUAGE)
+--------------------------
+1.SELECT
+2.PROJECTION
+3.SELECTION
+4.JOIN
+
